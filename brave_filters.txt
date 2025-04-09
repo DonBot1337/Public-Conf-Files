@@ -21,3 +21,6 @@ challonge.com##.redesign-top-leaderboard
 moxfield.com##.browse-ad-layout-content > .row > div.col-12.mb-4
 moxfield.com##.browse-ad
 # moxfield.com###maincontent > div:not(.autosave-notification):not(.deckheader-wrapper):not(.mp-5):not(.container):not(.deck-preview)
+
+# MyDealz
+www.mydealz.de##.js-idealo
