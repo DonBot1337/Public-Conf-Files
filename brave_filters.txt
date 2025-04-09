@@ -1,0 +1,22 @@
+# CardMarket
+cardmarket.com##section#marketingCarousel
+
+# EDHREC
+edhrec.com##div[class^=PleaseSupportUs]
+edhrec.com##div[class^=Grid_ad_]
+edhrec.com##img[class^=Ad_ad_]
+
+# EBay Kleinanzeigen
+kleinanzeigen.de##.srp-container
+kleinanzeigen.de##.ad-container
+kleinanzeigen.de##.site-base--right-banner--top
+kleinanzeigen.de##.site-base--left-banner--top
+kleinanzeigen.de###lsrp-sky-btf-left
+
+# Challonge
+challonge.com##.disclaimer
+challonge.com##.redesign-top-leaderboard
+
+# Moxfield
+moxfield.com##.browse-ad-layout-content > .row > div.col-12.mb-4
+moxfield.com##.browse-ad
